@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayesoro&label=Profile%20views&color=0e75b6&style=flat" alt="dayesoro" /> </p>
 
 
-- 🔭 I’m currently working on **Workout Buddy**
+- 🔭 I’m currently working on **Fitness Vault**
 
 
 - 🌱 I’m currently learning **Go,Python,Docker, Kubernetes**
